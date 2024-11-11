@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+   background-color: bisque;
+  
+   
+
+}
+
+.image{
+    padding: 70px;
+    align-items: center;
+   justify-content: center;
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+   
+}
+
+.image img{
+   width: 30%;
+  
+}
